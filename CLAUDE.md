@@ -1,5 +1,6 @@
 # andrewlord311-sudo.github.io
 
+<!-- key-docs:start -->
 ## Key docs (read these before re-deriving anything)
 **Topic:** Music Nuggets short links (`/g1`…) for YouTube descriptions.
 
@@ -7,3 +8,4 @@
 - `Claude Projects/Kids learning/Music teaching/Videos and channel/Channel launch plan.md`
 - `Claude Projects/Kids learning/Music teaching/Music teaching.md`
 - Cross-project map: `Claude Projects/Project Index.md`
+<!-- key-docs:end -->
